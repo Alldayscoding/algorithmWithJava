@@ -1,7 +1,6 @@
 # algorithmWithJava
 
-
-Introduction:
+Welcome to my github page!
 This folder is specifically for learning basic algorithms using Java. I have developed three phases to learn algorithms in a fun and enjoyable way.
 
 Phase 1: Learn the Basic Concepts of Algorithms
