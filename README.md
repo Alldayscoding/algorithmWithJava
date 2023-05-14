@@ -1,20 +1,17 @@
 # algorithmWithJava
 
-Thanks for visiting my github page.
-This folder is particularly aiming for learning basic algorithm using Java.
 
-Here are my 3 phases to learn algorithm with fun and enjoyable.
+Introduction:
+This folder is specifically for learning basic algorithms using Java. I have developed three phases to learn algorithms in a fun and enjoyable way.
 
-Phase 1 - Learn basic concept of algorithms.
-- Learning different type of algorithms from youtube, website(such as BaeJoon and Programmers)books.
+Phase 1: Learn the Basic Concepts of Algorithms
 
-Phase 2 - Get used to new knowledge.
-- Takeing some online exam resources but not easy one. Spend some time to think what approach will be applicable. 
-- Start coding, debug, check my program logic.
-- When I get stuck, go back to Phase 1 to review again till I have an idea. 
+In Phase 1, I learn the basic concepts of algorithms from YouTube, websites like BaeJoon and Programmers, and books. I also try to understand the intuition behind the algorithms.
 
-Phase 3. - Knowledge Sharing
-- Sharing example with my class mates in the Notions before I get started. 
-- Once it's done, gathering all of class mates and review codes. 
-- if someone else logic or code lines are more efficent and clean, rewrite my code but not exact same way. 
-- Always reminds that there must be room for improvement of all codes.
+Phase 2: Get Used to the New Knowledge
+
+In Phase 2, I get used to the new knowledge by taking some online exams that are not too easy. I spend some time thinking about what approach will be applicable, and then I start coding, debugging, and checking my program logic. If I get stuck, I go back to Phase 1 to review again until I have an idea.
+
+Phase 3: Share Knowledge and Improve
+
+In Phase 3, I share examples with my classmates in Notion before I get started. Once I'm done, I gather all of my classmates and review the codes. If someone else's logic or code lines are more efficient and clean, I rewrite my code, but not exactly the same way. I always remind myself that there is always room for improvement in all codes.
